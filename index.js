@@ -18,3 +18,4 @@ function remainder(n1, n2) {
     return result;
 }
 
+add(1, 2);
